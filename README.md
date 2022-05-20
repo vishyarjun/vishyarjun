@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and solve some interesting real world problems
 
 
-![<LinkedIn>](https://img.shields.io/badge/<LinkedIn>-<#1e81b0>?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/<LinkedIn>-<#0A66C2>?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 
 
