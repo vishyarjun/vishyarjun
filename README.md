@@ -32,5 +32,5 @@
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arjunvv/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishyarjun)
 [![Topmate](https://img.shields.io/badge/Topmate-d94d37?style=for-the-badge&logoColor=white)](https://topmate.io/vishyarjun)
-[![Leetcode](https://img.shields.io/badge/Topmate-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/vishyarjun1991/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/vishyarjun1991/)
 
