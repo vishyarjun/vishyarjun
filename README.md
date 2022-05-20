@@ -9,15 +9,16 @@
 ![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![MSSQL](https://img.shields.io/badge/PostgreSQL-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28B6F6?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-28B6F6?style=for-the-badge&logo=mysql&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
-
+![Flask](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Azure-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ## 📈 Stats
 
 <div align="center">
