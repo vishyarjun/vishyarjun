@@ -16,7 +16,7 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Azure-0769AD?style=for-the-badge&logo=Microsoft Azure&logoColor=white)
 
 ## 📈 Stats
 
@@ -30,8 +30,7 @@
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arjunvv/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishyarjun)
-[![Topmate](https://img.shields.io/badge/Topmate-d94d37?style=for-the-badge&logoColor=white)](https://twitter.com/vishyarjun)
+[![Topmate](https://img.shields.io/badge/Topmate-d94d37?style=for-the-badge&logoColor=white)](https://topmate.io/vishyarjun)
 
