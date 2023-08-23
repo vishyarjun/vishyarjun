@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-🎓 I am Arjun, a Solution Architect, Software Developer, Backend Engineer and a Competitive Programmer. 
+🎓 I am Arjun, a Solution Architect, Backend Engineer, Appian Consultant and a Competitive Programmer. 
 
 ## 🛠️ Skills
 
